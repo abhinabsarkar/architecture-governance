@@ -18,7 +18,7 @@ In the initial stage of evolution, EA tend to figure out the answer to the quest
 4. How do I integrate my systems with the cloud?
 
 While answering the above questions, one must remember: 
-> **Cloud is a capability, not a place**
+> **Cloud is a capability, not a hosting target**
 
 It is important for an Enterprise to understand that the path to digital transformation is not migrating to the cloud, rather building your own technology capability. To achieve this goal, EA works on key areas of architecture management i.e. Design, Build & Deploy, laying emphasis on the following three elements
 
